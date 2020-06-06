@@ -9,6 +9,6 @@ The "/memes" path provides the 10 latest downloaded memes from the database. The
   
 The "/memes/id/*number*" path will only show one meme, the meme that has its database ID equal to *number*.  
 ## Languages & Technologies  
-The whole app is written in [node.js](https://github.com/nodejs/node).   
+The whole app is written in [node.js](https://github.com/nodejs/node) and it uses [express](https://www.npmjs.com/package/express).   
 ## License  
 [MIT](https://github.com/Andreizabo/redditFetcher/blob/master/LICENSE)
